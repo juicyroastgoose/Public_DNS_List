@@ -20,4 +20,7 @@ Public_DNS List
 |    77.88.8.1    |  2a02:6b8:0:1::feed:0ff  |  https://common.dot.dns.yandex.net/dns-query  |  Russia  |    Yandex    |
 |    76.76.2.0     |   2606:1a40::   |  https://freedns.controld.com/p0  |  Anycast  |    ControlD    |
 |    76.76.10.0    |  2606:1a40:1::  |  https://freedns.controld.com/p0  |  Anycast  |    ControlD    |
+|    94.0.5.3    |  2001:678:8::3  |  https://doh.dns4all.eu/dns-query  |  Multi Locations  |    DNS4all    |
+|    193.110.81.0    |  2a0f:fc80::  |  https://dns0.eu/  |  EU  |    dns0.eu    |
+|    185.253.5.0     |  2a0f:fc81::  |  https://dns0.eu/  |  EU  |    dns0.eu    |
 
