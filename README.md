@@ -23,4 +23,5 @@ Public_DNS List
 |    94.0.5.3    |  2001:678:8::3  |  https://doh.dns4all.eu/dns-query  |  Multi Locations  |    DNS4all    |
 |    193.110.81.0    |  2a0f:fc80::  |  https://dns0.eu/  |  EU  |    dns0.eu    |
 |    185.253.5.0     |  2a0f:fc81::  |  https://dns0.eu/  |  EU  |    dns0.eu    |
-
+|    91.239.100.100     |  2001:67c:28a4::  |  https://anycast.uncensoreddns.org/dns-query  |  Anycast  |    UncensoredDNS    |
+|    89.233.43.71     |  2a01:3a0:53:53::  |  https://unicast.uncensoreddns.org/dns-query  |  Unicast  |    UncensoredDNS    |
