@@ -6,7 +6,7 @@ Public_DNS List
 |     8.8.8.8     |    2001:4860:4860::8888  |      https://dns.google/dns-query        |  Anycast |     Google    |
 |     8.8.4.4     |    2001:4860:4860::8844  |      https://dns.google/dns-query        |  Anycast |     Google    |
 |     1.1.1.1     |    2606:4700:4700::1111  |   https://cloudflare-dns.com/dns-query   |  Anycast |   Cloudflare  |
-|     1.1.0.0     |    2606:4700:4700::1001  |   https://cloudflare-dns.com/dns-query   |  Anycast |   Cloudflare  |
+|     1.0.0.1     |    2606:4700:4700::1001  |   https://cloudflare-dns.com/dns-query   |  Anycast |   Cloudflare  |
 |     9.9.9.10    |         2620:fe::10      |     https://dns10.quad9.net/dns-query    |  Anycast |     Quad9     |
 | 185.222.222.222 |          2a09::          |       https://doh.dns.sb/dns-query       |  Anycast |     DNS.SB    |
 |   45.11.45.11   |          2a11::          |       https://doh.dns.sb/dns-query       |  Anycast |     DNS.SB    |
