@@ -25,3 +25,5 @@ Public_DNS List
 |    185.253.5.0     |  2a0f:fc81::  |  https://dns0.eu/  |  EU  |    dns0.eu    |
 |    91.239.100.100     |  2001:67c:28a4::  |  https://anycast.uncensoreddns.org/dns-query  |  Anycast  |    UncensoredDNS    |
 |    89.233.43.71     |  2a01:3a0:53:53::  |  https://unicast.uncensoreddns.org/dns-query  |  Unicast  |    UncensoredDNS    |
+|    86.54.11.100     |  2a13:1001::86:54:11:100  |  https://unfiltered.joindns4.eu/dns-query  |  EU  |    DNS4EU    |
+|    86.54.11.200     |  2a13:1001::86:54:11:200  |  https://unfiltered.joindns4.eu/dns-query  |  EU  |    DNS4EU    |
